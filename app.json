@@ -6,7 +6,8 @@
     "env": {
         "UUID": {
             "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net/) ",
-            "required": true        
+            "required": true
+             "value":"1815d219-9308-4580-8864-c06ecc1454f0"        
         }
     },
     "repository": "https://github.com/heshan2/heroku-xray-server",
